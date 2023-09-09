@@ -27,8 +27,8 @@ const Formulario = ({ data, changeData, dataRows, setDataRows, showButtonSave })
             <DropdownFilter data={CodigosReprecentante} selectedOption={codigoReprecentante} setSelectedOption={setCodigoReprecentante} placeholder={"Seleccione su nombre"} />
             <DropdownFilter data={CodigosCliente} selectedOption={codigoCliente} setSelectedOption={setCodigoCliente} placeholder={"Seleccione el Cliente"} />
             <DropdownFilter data={CodigosServicio} selectedOption={codigoServicio} setSelectedOption={setCodigoServicio} placeholder={"Seleccione el servicio"} />
-            <DropdownFilter data={TiposBomba} selectedOption={tipoBomba} setSelectedOption={setTipoBomba} placeholder={"Selecciona el tipo de bomba"} />
-            <DropdownFilter data={ModelosBomba} selectedOption={modeloBomba} setSelectedOption={setModeloBomba} placeholder={"Selecciona el modelo de bomba"} />
+            <DropdownFilter data={TiposBomba} selectedOption={tipoBomba} setSelectedOption={setTipoBomba} placeholder={"Seleccione el tipo de bomba"} />
+            <DropdownFilter data={ModelosBomba} selectedOption={modeloBomba} setSelectedOption={setModeloBomba} placeholder={"Seleccione el modelo de bomba"} />
 
             <ColorBorderTextField required style={CamposTexto} type="number" id="serie" label="N° Serie" variant="outlined" value={serie} onChange={(e) => setSerie(e.target.value)} />
             <ColorBorderTextField required style={CamposTexto} type="number" id="codigoqr" label="Codigo Qr" variant="outlined" value={qr} onChange={(e) => setQr(e.target.value)} />
