@@ -1,0 +1,202 @@
+[
+    {
+        "label": "Almacen BBraun",
+        "value": 1
+    },
+    {
+        "label": "Alto Riesgo Obstetrico",
+        "value": 2
+    },
+    {
+        "label": "Cardiologia",
+        "value": 3
+    },
+    {
+        "label": "Centro Obstetrico",
+        "value": 4
+    },
+    {
+        "label": "Cg. Torax y Vascular",
+        "value": 5
+    },
+    {
+        "label": "Cirugia",
+        "value": 6
+    },
+    {
+        "label": "Clinica",
+        "value": 7
+    },
+    {
+        "label": "Consultorio",
+        "value": 8
+    },
+    {
+        "label": "Departamento de Enfermeria",
+        "value": 9
+    },
+    {
+        "label": "emergencia",
+        "value": 10
+    },
+    {
+        "label": "Enfermeria",
+        "value": 11
+    },
+    {
+        "label": "Gastroenterologia",
+        "value": 12
+    },
+    {
+        "label": "Geriatria",
+        "value": 13
+    },
+    {
+        "label": "Ginecologia",
+        "value": 14
+    },
+    {
+        "label": "Hematologia",
+        "value": 15
+    },
+    {
+        "label": "Hemodialisis",
+        "value": 16
+    },
+    {
+        "label": "Hospitalización",
+        "value": 17
+    },
+    {
+        "label": "Infectologia",
+        "value": 18
+    },
+    {
+        "label": "Maternidad",
+        "value": 19
+    },
+    {
+        "label": "Medicina",
+        "value": 20
+    },
+    {
+        "label": "Nefrologia",
+        "value": 21
+    },
+    {
+        "label": "Neonatologia",
+        "value": 22
+    },
+    {
+        "label": "Neumologia",
+        "value": 23
+    },
+    {
+        "label": "Neurocirugia",
+        "value": 24
+    },
+    {
+        "label": "Neuropediatria",
+        "value": 25
+    },
+    {
+        "label": "Obstetricia",
+        "value": 26
+    },
+    {
+        "label": "Oncologia",
+        "value": 27
+    },
+    {
+        "label": "Otorrino",
+        "value": 28
+    },
+    {
+        "label": "Pediatria",
+        "value": 29
+    },
+    {
+        "label": "Puerperio",
+        "value": 30
+    },
+    {
+        "label": "Quemados",
+        "value": 31
+    },
+    {
+        "label": "Quimioterapia",
+        "value": 32
+    },
+    {
+        "label": "recuperación",
+        "value": 33
+    },
+    {
+        "label": "Sala de Partos",
+        "value": 34
+    },
+    {
+        "label": "SOP",
+        "value": 35
+    },
+    {
+        "label": "SSTT",
+        "value": 36
+    },
+    {
+        "label": "TPH",
+        "value": 37
+    },
+    {
+        "label": "Traumatologia",
+        "value": 38
+    },
+    {
+        "label": "UCEMIN",
+        "value": 39
+    },
+    {
+        "label": "UCI",
+        "value": 40
+    },
+    {
+        "label": "UCIN",
+        "value": 41
+    },
+    {
+        "label": "UEPA (Obstetricia)",
+        "value": 42
+    },
+    {
+        "label": "UPOCV",
+        "value": 43
+    },
+    {
+        "label": "Urologia",
+        "value": 44
+    },
+    {
+        "label": "USNA",
+        "value": 45
+    },
+    {
+        "label": "UTPH (Transplante)",
+        "value": 46
+    },
+    {
+        "label": "MERCADERIA",
+        "value": 47
+    },
+    {
+        "label": "Almacen Cliente",
+        "value": 48
+    },
+    {
+        "label": "DEMOSTRACION",
+        "value": 49
+    },
+    {
+        "label": "Almacen Disponible",
+        "value": 50
+    }
+]

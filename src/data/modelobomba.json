@@ -1,0 +1,54 @@
+[
+    {
+        "label": "Compact",
+        "value": 1
+    },
+    {
+        "label": "FMS",
+        "value": 2
+    },
+    {
+        "label": "Space",
+        "value": 3
+    },
+    {
+        "label": "FM",
+        "value": 4
+    },
+    {
+        "label": "Enteroport",
+        "value": 5
+    },
+    {
+        "label": "DIALOG EVO",
+        "value": 6
+    },
+    {
+        "label": "DIALOG SINGLE",
+        "value": 7
+    },
+    {
+        "label": "Stimuplex HNS 12",
+        "value": 8
+    },
+    {
+        "label": "Stimuplex Dig RC",
+        "value": 9
+    },
+    {
+        "label": "PL503R",
+        "value": 10
+    },
+    {
+        "label": "FT412T",
+        "value": 11
+    },
+    {
+        "label": "FT402T",
+        "value": 12
+    },
+    {
+        "label": "DIAPACT CRRT",
+        "value": 13
+    }
+]

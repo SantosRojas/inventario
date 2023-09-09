@@ -1,0 +1,746 @@
+[
+    {
+        "label": "HOSPITAL NACIONAL DANIEL ALCIDES CARRION",
+        "value": 20547157
+    },
+    {
+        "label": "CENTRO MEDICO CLINICA SAN JUDAS TADEO SA",
+        "value": 20547158
+    },
+    {
+        "label": "HOSPITAL AMAZONICO",
+        "value": 20547159
+    },
+    {
+        "label": "FONDO DE SALUD PARA LA POLICIA NACIONAL ",
+        "value": 20547161
+    },
+    {
+        "label": "HOSPITAL SANTA MARIA DEL SOCORRO",
+        "value": 20547164
+    },
+    {
+        "label": "HOSPITAL \"VICTOR RAMOS GUARDIA\" NIVEL II-2-HUARAZ",
+        "value": 20547187
+    },
+    {
+        "label": "UNIDAD TERRITORIAL DE SALUD TINGO MARIA",
+        "value": 20547197
+    },
+    {
+        "label": "HOSPITAL CARLOS LANFRANCO LA HOZ",
+        "value": 20547198
+    },
+    {
+        "label": "HOSPITAL REGIONAL DE SALUD PUCALLPA",
+        "value": 20547199
+    },
+    {
+        "label": "GOBIERNO REGIONAL AREQUIPA HOSP GOYONECHE",
+        "value": 20547203
+    },
+    {
+        "label": "HOSPITAL REGIONAL DOCENTE DE TRUJILLO",
+        "value": 20547214
+    },
+    {
+        "label": "HOSPITAL REGIONAL MANUEL NUÑEZ BUTRON PUNO",
+        "value": 20547216
+    },
+    {
+        "label": "CLINICA INTERNACIONAL S A",
+        "value": 20547218
+    },
+    {
+        "label": "CLINICA ADVENTISTA ANA STHAL",
+        "value": 20547221
+    },
+    {
+        "label": "U.E. 403 - SALUD TRUJILLO SUR OESTE",
+        "value": 20547222
+    },
+    {
+        "label": "ADMINISTRADORA CLINICA RICARDO PALMA SA",
+        "value": 20547226
+    },
+    {
+        "label": "CLINICA SAN FELIPE SA",
+        "value": 20547229
+    },
+    {
+        "label": "HOSPITAL DE APOYO I NUESTRA SRA DE LAS MERCEDES PAITA",
+        "value": 20547231
+    },
+    {
+        "label": "HOSPITAL CHANCAY Y SERVICIOS BASICOS DE SALUD",
+        "value": 20547233
+    },
+    {
+        "label": "CLINICA BELLAVISTA SAC",
+        "value": 20547235
+    },
+    {
+        "label": "CLINICA SANTA ISABEL S.A.",
+        "value": 20547237
+    },
+    {
+        "label": "DROGUERIA IMPORTADORA DE ARTICULOS MEDICOS SA",
+        "value": 20547238
+    },
+    {
+        "label": "ASOC. PAST. SERV. MEDICO ASISTENCIAL",
+        "value": 20547242
+    },
+    {
+        "label": "CLINICA SAN PABLO S.A.C",
+        "value": 20547249
+    },
+    {
+        "label": "ASOCIACION PASTORAL DE SERV ASIST GOOP HOPE DE LA IASD",
+        "value": 20547251
+    },
+    {
+        "label": "HOSPITAL SANTA ROSA",
+        "value": 20547253
+    },
+    {
+        "label": "BRITISH AMERICAN HOSPITAL",
+        "value": 20547255
+    },
+    {
+        "label": "SOCIEDAD DE BENEFICENCIA DE LIMA METROPLITANA",
+        "value": 20547256
+    },
+    {
+        "label": "UNIVERSIDAD PERUANA CAYET",
+        "value": 20547257
+    },
+    {
+        "label": "HOSPITAL DE APOYO II-2 SULLANA",
+        "value": 20547260
+    },
+    {
+        "label": "SSS - HOSPITAL ALBERTO SABOGAL SOLOGUREN",
+        "value": 20547266
+    },
+    {
+        "label": "SSS - HOSPITAL NACIONAL ALMANZOR AGUINAGA ASENJO",
+        "value": 20547267
+    },
+    {
+        "label": "SSS - RED ASISTENCIAL ALMENARA",
+        "value": 20547268
+    },
+    {
+        "label": "REDESS MACUSANI",
+        "value": 20547271
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL APURIMAC",
+        "value": 20547280
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL AREQUIPA",
+        "value": 20547281
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL CAJAMARCA",
+        "value": 20547283
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL LAMBAYEQUE",
+        "value": 20547284
+    },
+    {
+        "label": "ONCOCENTER PERU S.A.C.",
+        "value": 20547286
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL ANCASH",
+        "value": 20547295
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL CUZCO",
+        "value": 20547296
+    },
+    {
+        "label": "SSS - HOSPITAL EDGARDO REBAGLIATI MARTINS",
+        "value": 20547297
+    },
+    {
+        "label": "HOSPITAL REGIONAL DE LORETO",
+        "value": 20547300
+    },
+    {
+        "label": "A .I. S. HOSPITAL APOYO I",
+        "value": 20547302
+    },
+    {
+        "label": "UNIDAD EJECUTORA 401 SALUD CHINCHA PISCO",
+        "value": 20547306
+    },
+    {
+        "label": "INSTITUTO ONCOLOGICO MIRAFLORES SAC",
+        "value": 20547307
+    },
+    {
+        "label": "CTAR LAMB HOSPITAL DOCENTE LAS MERCEDES",
+        "value": 20547309
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL HUÁNUCO",
+        "value": 20547310
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL ICA",
+        "value": 20547311
+    },
+    {
+        "label": "SSS - INSTITUTO NACIONAL DEL CORAZÓN",
+        "value": 20547312
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL LORETO",
+        "value": 20547313
+    },
+    {
+        "label": "CTAR HOSPITAL PROV.DOC. BELEN LAMBAYEQUE",
+        "value": 20547315
+    },
+    {
+        "label": "DROFAR E.I.R.L.",
+        "value": 20547317
+    },
+    {
+        "label": "HOSPITAL DEPARTAMENTAL DE HUANCAVELICA",
+        "value": 20547319
+    },
+    {
+        "label": "SSS - RED ASISTENCIAL JULIACA",
+        "value": 20547323
+    },
+    {
+        "label": "INSTITUTO REGIONAL DE ENFERMEDADES NEOPLASICAS DEL SUR",
+        "value": 20547333
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL PIURA",
+        "value": 20547336
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL MADRE DE DIOS",
+        "value": 20547338
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL PUNO",
+        "value": 20547339
+    },
+    {
+        "label": "INVERCONSULT S.A",
+        "value": 20547341
+    },
+    {
+        "label": "INSTITUTO REGIONAL DE ENFERMEDADES NEOPLASICAS",
+        "value": 20547346
+    },
+    {
+        "label": "HOSPITAL DE APOYO  DE CHULUCANAS",
+        "value": 20547348
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL SAN MARTIN",
+        "value": 20547351
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL TACNA",
+        "value": 20547352
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL LA LIBERTAD",
+        "value": 20547353
+    },
+    {
+        "label": "HOSPITAL SANTA GEMA DE YURIMAGUAS",
+        "value": 20547357
+    },
+    {
+        "label": "RENEXA S.A.",
+        "value": 20547361
+    },
+    {
+        "label": "SERVICIO DE APOYO DIAGNOSTICO Y TERAPEUTICO SAN MIGUEL SAC",
+        "value": 20547362
+    },
+    {
+        "label": "SSS - GERENCIA DEPARTAMENTAL UCAYALI",
+        "value": 20547365
+    },
+    {
+        "label": "INSTITUTO NACIONAL DE SALUD DEL NIÑO",
+        "value": 20547367
+    },
+    {
+        "label": "EJERCITO PERUANO",
+        "value": 20547368
+    },
+    {
+        "label": "CLINICA SAN GABRIEL  S.A.",
+        "value": 20547374
+    },
+    {
+        "label": "INSTITUTO NACIONAL DE CIENCIAS NEUROLOGICAS",
+        "value": 20547377
+    },
+    {
+        "label": "HOSPITAL NAC DOCENTE M Y N SAN BARTOLOME",
+        "value": 20547379
+    },
+    {
+        "label": "HOSPITAL JOSE AGURTO TELLO DE CHOSICA",
+        "value": 20547384
+    },
+    {
+        "label": "SISTEMAS DE ADMINISTRACION HOSPITALARIA SAC",
+        "value": 20547385
+    },
+    {
+        "label": "HOSPITAL DE EMERGENCIAS JOSE CASIMIRO ULLOA",
+        "value": 20547392
+    },
+    {
+        "label": "HOSPITAL EMERGENCIAS PEDIATRICAS",
+        "value": 20547393
+    },
+    {
+        "label": "INSTITUTO NACIONAL MATERNO PERINATAL",
+        "value": 20547394
+    },
+    {
+        "label": "CLINICA NUEVO SAN JUAN SA",
+        "value": 20547399
+    },
+    {
+        "label": "FUERZA AEREA DEL PERU",
+        "value": 20547400
+    },
+    {
+        "label": "REDESS SAN ROMAN",
+        "value": 20547402
+    },
+    {
+        "label": "HOSPITAL REGIONAL HERMILIO VALDIZAN",
+        "value": 20547403
+    },
+    {
+        "label": "HOSPITAL EL CARMEN",
+        "value": 20547410
+    },
+    {
+        "label": "MARINA DE GUERRA DEL PERU",
+        "value": 20547420
+    },
+    {
+        "label": "HOSPITAL NACIONAL CAYETANO HEREDIA",
+        "value": 20547421
+    },
+    {
+        "label": "HOSPITAL NACIONAL ARZOBISPO LOAYZA",
+        "value": 20547423
+    },
+    {
+        "label": "UNIDAD EJECUTORA HOSPITAL SAN JUAN DE LURIGANCHO",
+        "value": 20547425
+    },
+    {
+        "label": "HOSPITAL DE BAJA COMPLEJIDAD VITARTE",
+        "value": 20547426
+    },
+    {
+        "label": "CENTRO MEDICO PARA EL DIAGNOSTICORENALES  Y TRATAMIENTO SAC",
+        "value": 20547430
+    },
+    {
+        "label": "HOSPITAL MUNICIPAL LOS OLIVOS",
+        "value": 20547433
+    },
+    {
+        "label": "HOSPITAL NACIONAL DOS DE MAYO",
+        "value": 20547437
+    },
+    {
+        "label": "HOSPITAL SERGIO E BERNALES",
+        "value": 20547438
+    },
+    {
+        "label": "HOSPITAL DE APOYO DEPARTAMENTAL MARIA AUXILIADORA",
+        "value": 20547439
+    },
+    {
+        "label": "CLINICA MEDICA CAYETANO HEREDIA SA",
+        "value": 20547440
+    },
+    {
+        "label": "HOSPITAL HUACHO HUAURA OYON SBS",
+        "value": 20547446
+    },
+    {
+        "label": "DIRECCION DE SALUD - JUNIN",
+        "value": 20547448
+    },
+    {
+        "label": "CLINICA SANTA MARIA DEL SUR SAC",
+        "value": 20547453
+    },
+    {
+        "label": "CLINICA JESUS DEL NORTE SAC",
+        "value": 20547454
+    },
+    {
+        "label": "HOSPITAL DE APOYO I SANTA ROSA PIURA",
+        "value": 20547462
+    },
+    {
+        "label": "HOSPITAL GUILLERMO DIAZ DE LA VEGA",
+        "value": 20547464
+    },
+    {
+        "label": "HOSPITAL DE APOYO N 1",
+        "value": 20547466
+    },
+    {
+        "label": "HOSPITAL DE BARRANCA -CAJATAMBO Y SERVICIOS BASICOS DE SALUD",
+        "value": 20547467
+    },
+    {
+        "label": "HOSPITAL DE APOYO REZOLA",
+        "value": 20547469
+    },
+    {
+        "label": "HOSPITAL SUB REGIONAL DE ANDAHUAYLAS ",
+        "value": 20547470
+    },
+    {
+        "label": "UNIDAD EJECUTORA HOSPITAL DE APOYO DEPARTAMENTAL CUSCO",
+        "value": 20547472
+    },
+    {
+        "label": "UNIDAD EJECUTORA HOSPITAL ANTONIO LORENA",
+        "value": 20547474
+    },
+    {
+        "label": "REGION JUNIN SALUD TARMA",
+        "value": 20547478
+    },
+    {
+        "label": "AIS HOSPITAL SANTA ROSA",
+        "value": 20547479
+    },
+    {
+        "label": "HOSPITAL REGIONAL DE AYACUCHO",
+        "value": 20547489
+    },
+    {
+        "label": "HOSPITAL REGIONAL ELEAZAR GUZMAN BARRON",
+        "value": 20547495
+    },
+    {
+        "label": "CELIS CELIS PATRICIA DEL",
+        "value": 20547545
+    },
+    {
+        "label": "LA ESPERANZA DEL PERU S.A",
+        "value": 20568675
+    },
+    {
+        "label": "ASOCIACION PERUANO JAPONESA",
+        "value": 20569308
+    },
+    {
+        "label": "ONCOLOGIA S.A.C",
+        "value": 20569318
+    },
+    {
+        "label": "CLINICA CAYETANO HEREDIA SRL",
+        "value": 20569319
+    },
+    {
+        "label": "INVESTIGACIONES CLINICAS SAC",
+        "value": 20569320
+    },
+    {
+        "label": "CLINICA SANCHEZ FERRER SA",
+        "value": 20569322
+    },
+    {
+        "label": "DISTRIBUIDORA MARIDIOSE SAC",
+        "value": 20569325
+    },
+    {
+        "label": "PROYECTOS MEDICOS S.A.",
+        "value": 20569330
+    },
+    {
+        "label": "CLINICA BELEN S.A.",
+        "value": 20569332
+    },
+    {
+        "label": "GALENO I.E.M SAC",
+        "value": 20569335
+    },
+    {
+        "label": "RED DE SERVICIOS DE SALUD CUSCO SUR",
+        "value": 20569420
+    },
+    {
+        "label": "HOSPITAL REGIONAL MANUEL NUÑEZ BUTRON",
+        "value": 20569422
+    },
+    {
+        "label": "REGION LAMBAYEQUE HOSPITAL REGIONAL LAMBAYEQUE",
+        "value": 20569423
+    },
+    {
+        "label": "CLINICA DE OJOS SELUCE SAC",
+        "value": 20573101
+    },
+    {
+        "label": "PROMOTORA ASISTENCIAL SAC",
+        "value": 20581472
+    },
+    {
+        "label": "SERVICIOS DE SALUD MONTEFIORI",
+        "value": 20581473
+    },
+    {
+        "label": "B.BRAUN MEDICAL PERU S.A.",
+        "value": 20585165
+    },
+    {
+        "label": "TENORIO MESONES MAGDALENA",
+        "value": 20582097
+    },
+    {
+        "label": "CLINICA SAN PABLO DE LA SALLE SA",
+        "value": 20583652
+    },
+    {
+        "label": "ASOCIACION CIVIL SELVA AMAZONICA",
+        "value": 20585116
+    },
+    {
+        "label": "CLINICA PERUANO AMERICANA SA",
+        "value": 20588878
+    },
+    {
+        "label": "GSP TRUJILLO S.A.C.",
+        "value": 20596181
+    },
+    {
+        "label": "CLINICA MIRAFLORES",
+        "value": 20603360
+    },
+    {
+        "label": "HOGAR CLINICA SAN JUAN DE DIOS",
+        "value": 20603540
+    },
+    {
+        "label": "UNIDAD EJECUTORA 402 \"HOSPITAL REGIONAL JOSE ALFREDO MENDOZA  OLAVARRIA JAMO II-2",
+        "value": 20604283
+    },
+    {
+        "label": "INSTITUTO NACIONAL DE SALUD DEL NIÑO - SAN BORJA",
+        "value": 20610199
+    },
+    {
+        "label": "VESALIO S.A.",
+        "value": 20616412
+    },
+    {
+        "label": "IAFAS DE LA MARINA DE GUERRA DEL PERU",
+        "value": 20618961
+    },
+    {
+        "label": "SALUDPOL",
+        "value": 20619574
+    },
+    {
+        "label": "HOSPITAL DE HUAYCAN",
+        "value": 20629815
+    },
+    {
+        "label": "IBT HEALTH S.A.C.",
+        "value": 20631425
+    },
+    {
+        "label": "DIOCESIS DE CHIMBOTE",
+        "value": 20663968
+    },
+    {
+        "label": "MEDIC SER S.A.C.",
+        "value": 20675265
+    },
+    {
+        "label": " ONCOSALUD S.A.C.",
+        "value": 20675379
+    },
+    {
+        "label": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+        "value": 20680399
+    },
+    {
+        "label": "DROGUERIA Y DISTRIBUIDORA SR. DE LOS MILAGROS EIRL",
+        "value": 20681955
+    },
+    {
+        "label": "MEDICAL NUTRICION SAC",
+        "value": 20682025
+    },
+    {
+        "label": "SSS HOSPITAL II HUARAZ",
+        "value": 20691840
+    },
+    {
+        "label": "ESPECIALIDADES MEDICAS UNIVERSAL S.A.",
+        "value": 20716193
+    },
+    {
+        "label": "CLINICA DEL PACIFICO S.A.",
+        "value": 20725530
+    },
+    {
+        "label": "CLINICA DE SALUD INTEGRAL Y PREVENCION CESAR MALCA GUEVARA SAC",
+        "value": 20744203
+    },
+    {
+        "label": "UNIDAD EJECUTORA 410: HOSPITAL",
+        "value": 20766722
+    },
+    {
+        "label": "ESPECIALISTAS EN MEDICINA",
+        "value": 20769274
+    },
+    {
+        "label": "HOSPITAL DE EMERGENCIAS",
+        "value": 20776658
+    },
+    {
+        "label": "INVERSIONES MEDICAS GALENO SAC.",
+        "value": 20780618
+    },
+    {
+        "label": "RELIMED IMPORTACIONES E.I.R.L.",
+        "value": 20784358
+    },
+    {
+        "label": "DROGUERIA ANGLOAMERICANA S.A.C.",
+        "value": 20787912
+    },
+    {
+        "label": "DETECTA CENTRO ONCOLOGICO S.A.C.",
+        "value": 20787913
+    },
+    {
+        "label": "CLINICA MONTE HOREB S.A.",
+        "value": 20789005
+    },
+    {
+        "label": "CLINICA MIRAFLORES S.A.C.",
+        "value": 20808802
+    },
+    {
+        "label": "TECNOLOGIAS MEDICAS AREQUIPA S.A.",
+        "value": 20821420
+    },
+    {
+        "label": "CLINICA MEDICA ZEGARRA SAC",
+        "value": 20824059
+    },
+    {
+        "label": "SERVICIOS NEFROLOGICOS INTEGRALES E.I.R.L.",
+        "value": 20825459
+    },
+    {
+        "label": "INCA PHARMACY S.A.C.",
+        "value": 20831944
+    },
+    {
+        "label": "CLINICA MUNDO SALUD SAC",
+        "value": 20837660
+    },
+    {
+        "label": "CLINICA VETERINARIA EL POLO SAC",
+        "value": 20839476
+    },
+    {
+        "label": "INVERSIONES VETERINARIAS MONTANA SAC",
+        "value": 20847754
+    },
+    {
+        "label": "GRUPO CARITA FELIZ SA",
+        "value": 20855147
+    },
+    {
+        "label": "CLINICA CERRO COLORADO SAC",
+        "value": 20868351
+    },
+    {
+        "label": "DROGUERIA MEDICA HOSPITALARIA",
+        "value": 20876020
+    },
+    {
+        "label": "INSTRUMENTAL INSUMOS Y EQUIPOS",
+        "value": 20879763
+    },
+    {
+        "label": "CENTROS DE SALUD PERUANOS SAC",
+        "value": 20885076
+    },
+    {
+        "label": "CLINICA FLORIAN SAC",
+        "value": 20888346
+    },
+    {
+        "label": "MIRANDA MEDICINA Y CIRUGIA DE AVANZADA S.R.L.",
+        "value": 20893489
+    },
+    {
+        "label": "LIDER MEDICA S.A.",
+        "value": 20907968
+    },
+    {
+        "label": "ROCHE FARMA (PERU) S.A.",
+        "value": 20930155
+    },
+    {
+        "label": "PET CT PERU S.A.",
+        "value": 20931311
+    },
+    {
+        "label": "PROSALUD: ASISTENCIA MEDICA INTEGRAL EIRL",
+        "value": 20931313
+    },
+    {
+        "label": "CONSORCIO SALUD LIMA SUR S.A.C.",
+        "value": 20957166
+    },
+    {
+        "label": "EXPERTTA SALUD S.A.C.",
+        "value": 20959385
+    },
+    {
+        "label": "Unidad Ejecutora Instituto Regional de Enfermedades Neoplásicas del Centro IREN CENTRO",
+        "value": 21153060
+    },
+    {
+        "label": "Integral Medical Care S.A.C.",
+        "value": 21156137
+    },
+    {
+        "label": "Corporacion Servicios Eventos",
+        "value": 21162609
+    },
+    {
+        "label": "VELARE SERVICIOS S.A.C.",
+        "value": 21207033
+    }
+]

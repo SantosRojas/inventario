@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Infusor",
+        "value": 1
+    },
+    {
+        "label": "Perfusor",
+        "value": 2
+    },
+    {
+        "label": "Enteroport",
+        "value": 3
+    },
+    {
+        "label": "Hemodialisis",
+        "value": 4
+    },
+    {
+        "label": "NEUROESTIMULADOR",
+        "value": 5
+    },
+    {
+        "label": "PINZA APLICACION",
+        "value": 6
+    }
+]
