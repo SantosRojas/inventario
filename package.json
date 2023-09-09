@@ -2,7 +2,7 @@
   "name": "inventario",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://santosrojas.github.io/inventario",
+  "homepage": "http://santosrojas.github.io/inventario",
   "dependencies": {
     "@babel/plugin-transform-object-rest-spread": "^7.22.15",
     "@emotion/react": "^11.11.1",
