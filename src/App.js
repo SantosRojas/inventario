@@ -35,7 +35,7 @@ function App() {
     const worksheet = workbook.addWorksheet('Datos');
 
     // Añadir encabezados
-    worksheet.addRow(['Codigo Reprecentante','CodigoCliente', 'CodigoServicio', 'TipoBomba', 'ModeloBomba', 'Serie', 'CodigoQr', 'Comentario', "Fecha"]);
+    worksheet.addRow(['CodigoReprecentante','CodigoCliente', 'CodigoServicio', 'TipoBomba', 'ModeloBomba', 'Serie', 'CodigoQr', 'Comentario', "Fecha"]);
 
     // Añadir filas de datos
     dataRows.forEach(data => {
@@ -48,7 +48,7 @@ function App() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `Inventario_${fecha}.xlsx`;
+    a.download = `Inventario_${codigoReprecentante.label.replace(/[\s,]/g, "_")}_${fecha}.xlsx`;
     a.click();
     URL.revokeObjectURL(url);
   };

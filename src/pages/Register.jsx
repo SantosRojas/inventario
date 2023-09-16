@@ -22,9 +22,9 @@ const Register = ({ data, changeData, dataRows, setDataRows, handleDownloadExcel
 
 
     const handleClear = () => {
-        if (indexDelete !==-1){
+        if (indexDelete !== -1) {
             handleDeleteRow(indexDelete)
-        }else{
+        } else {
             setDataRows([])
         }
     }
@@ -42,7 +42,7 @@ const Register = ({ data, changeData, dataRows, setDataRows, handleDownloadExcel
     return (
         <>
             <Container>
-                <DialogConfirm openDialog={openDialog} setOpenDialog={setOpenDialog}  handleConfirm ={handleClear}/>
+                <DialogConfirm openDialog={openDialog} setOpenDialog={setOpenDialog} handleConfirm={handleClear} />
                 <TitleG>Inventario BBRAUN</TitleG>
                 <Formulario data={data}
                     changeData={changeData}
@@ -50,21 +50,31 @@ const Register = ({ data, changeData, dataRows, setDataRows, handleDownloadExcel
                     setDataRows={setDataRows}
                     showButtonSave={true} />
 
-                <div style={{ display: "flex", justifyContent: "space-between" }}>
-                    <BtnR onClick={handleClickOpen}>Borrar Todo</BtnR>
-                    <BtnR onClick={handleDownloadExcel}>Descargar Excel</BtnR>
-                </div>
+                {
+                    data.codigoReprecentante !== null && (
+                        <div style={{ display: "flex", justifyContent: "space-between" }}>
+                            <BtnR onClick={handleClickOpen}>Borrar Todo</BtnR>
+                            <BtnR onClick={handleDownloadExcel}>Descargar Excel</BtnR>
+                        </div>
+                    )
+                }
             </Container>
-            <Container>
-                <DataList
-                    openDialog ={openDialog}
-                    setOpenDialog = {setOpenDialog}
-                    changeData={changeData}
-                    setIndexEdit={changeData.setIndexEdit}
-                    dataRows={dataRows}
-                    setIndexDelete = {setIndexDelete}
-                    setDataRows={setDataRows} />
-            </Container>
+
+            {
+                data.codigoReprecentante !== null && (
+                    <Container>
+                        <DataList
+                            openDialog={openDialog}
+                            setOpenDialog={setOpenDialog}
+                            changeData={changeData}
+                            setIndexEdit={changeData.setIndexEdit}
+                            dataRows={dataRows}
+                            setIndexDelete={setIndexDelete}
+                            setDataRows={setDataRows} />
+                    </Container>
+                )
+            }
+
         </>
     )
 }
